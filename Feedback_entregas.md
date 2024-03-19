@@ -2,7 +2,7 @@
 
 ## [1] Definição do projeto e: equipe (10.03)
 
-* [Detecção de instabilidades no processo de atendimento ao consumidor - Energisa Mato Grosso]([https://colab.research.google.com/drive/1_OPd8_vSB33Ja0-plHjQa1viFIvM_jtw?usp=sharing](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplicadoIV/blob/main/FB1_energisa.ipynb)https://colab.research.google.com/github/Rogerio-mack/ProjetoAplicadoIV/blob/main/FB1_energisa.ipynb)
+* [Detecção de instabilidades no processo de atendimento ao consumidor - Energisa Mato Grosso](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplicadoIV/blob/main/FB1_energisa.ipynb)
 
 * [Previsão de Queimadas Baseadas em Séries Temporais](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplicadoIV/blob/main/FB1_Previs%C3%A3o_de_Queimadas_Baseadas_em_S%C3%A9ries_Temporais.ipynb)
 
