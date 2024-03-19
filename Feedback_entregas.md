@@ -1,6 +1,6 @@
 # Feedbacks das Entregas
 
-## [1] Definição do projeto e: equipe (10.03)
+## [1] Definição do projeto e equipe (10.03)
 
 * [Detecção de instabilidades no processo de atendimento ao consumidor - Energisa Mato Grosso](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplicadoIV/blob/main/FB1_energisa.ipynb)
 
