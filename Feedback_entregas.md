@@ -10,4 +10,6 @@
 
 * [Impacto da Baixa Taxa de Natalidade na Previdência Social: Um Desafio para o Futuro](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplicadoIV/blob/main/FB1_Previdencia_Projeto_aplicado_IV_entrega_1.ipynb)
 
+* [Modelo para previsão de taxa de desemprego no Distrito Federal através de séries temporais](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplicadoIV/blob/main/FB1_desemprego_Projeto_aplicado_IV_entrega_1.ipynb)
+
  
