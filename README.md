@@ -9,7 +9,7 @@ um projeto de ciência de dados para solução de um problema de um cliente, emp
 
 Acesse [aqui](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplicadoIV/blob/main/Projeto_aplicado_IV.ipynb) o detalhamento completo do projeto.
 
- <img src="https://github.com/Rogerio-mack/ProjetoAplicadoIV/blob/main/Plano_de_Entregas.png?raw=true" width="100%" align="right"/>
+ <img src="https://github.com/Rogerio-mack/ProjetoAplicadoIV/blob/main/Plano_de_Entregas.png?raw=true" width="50%" align="right"/>
 
  <br>
 
@@ -17,7 +17,7 @@ Acesse [aqui](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplic
 
 Acompanhe abaixo os trabalhos realizados com artigo, resumo, dados, códigos, vídeos e análises.
 
-* [Modelo para previsão de taxa de desemprego no Distrito Federal através de séries temporais](https://github.com/projeto-aplicado-cd/projeto_aplicado_IV) *Melhor Trabalho*
+* [Modelo para previsão de taxa de desemprego no Distrito Federal através de séries temporais](https://github.com/projeto-aplicado-cd/projeto_aplicado_IV) *- destaque!*
 
 <br>
 
