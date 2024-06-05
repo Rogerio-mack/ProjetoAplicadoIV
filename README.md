@@ -12,6 +12,15 @@ Acesse [aqui](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplic
  <img src="https://github.com/Rogerio-mack/ProjetoAplicadoIV/blob/main/Plano_de_Entregas.png?raw=true" width="50%" align="right"/>
 
  <br>
+  <br>
+   <br>
+    <br>
+     <br>
+      <br>
+         <br>
+    <br>
+     <br>
+      <br>
 
 # Trabalhos apresentados
 
