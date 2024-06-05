@@ -24,7 +24,7 @@ Acesse [aqui](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplic
 
 # Trabalhos apresentados
 
-Acompanhe abaixo os trabalhos realizados com artigo, resumo, dados, códigos, vídeos e análises.
+Acompanhe abaixo os trabalhos realizados com **artigo, dados, códigos, análises e vídeos dos resultados**.
 
 * [Modelo para previsão de taxa de desemprego no Distrito Federal através de séries temporais](https://github.com/projeto-aplicado-cd/projeto_aplicado_IV) *- destaque!*
 
