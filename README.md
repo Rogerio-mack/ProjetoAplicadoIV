@@ -15,10 +15,11 @@ Acesse [aqui](https://colab.research.google.com/github/Rogerio-mack/ProjetoAplic
 
 # Trabalhos apresentados
 
+* [Modelo para previsão de taxa de desemprego no Distrito Federal através de séries temporais](https://github.com/projeto-aplicado-cd/projeto_aplicado_IV) *Melhor Trabalho*
+<br>
 * [Detecção de instabilidades no processo de atendimento ao consumidor - Energisa Mato Grosso](https://github.com/kpascoalino/Projeto_IV_Grupo_MarkIV)
-* [IBOVESPA](https://github.com/10368966/projeto-aplicado)
+* [Explorando o Impacto das Taxas de Inflação e SELIC no Mercado de Ações Brasileiro: Previsões e Perspectivas para o Crescimento Econômico Sustentável](https://github.com/10368966/projeto-aplicado)
 * [Impacto da Baixa Taxa de Natalidade na Previdência Social: Um Desafio para o Futuro](https://github.com/jvtsp/Projeto-Aplicado-5/tree/main)
-* [Modelo para previsão de taxa de desemprego no Distrito Federal através de séries temporais](https://github.com/projeto-aplicado-cd/projeto_aplicado_IV)
 * [Previsão de Queimadas Baseadas em Séries Temporais](Https://github.com/PedroCosDi/p4dataedgeflow)
 
 
